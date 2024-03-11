@@ -4,7 +4,7 @@ Reinforcement Learning Research
 - [Paderborn University - Department LEA](https://www.youtube.com/@uni_pb_lea/playlists)
 - [chandar-lab](https://www.youtube.com/playlist?list=PLImtCgowF_ES_JdF_UcM60EXTcGZg67Ua)
 - [Foundations of Deep RL](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0)
-- [RAIL](https://www.youtube.com/@rail7462/playlists)
+- [RAIL](https://www.youtube.com/@rail7462/playlists) | [Website](http://rail.eecs.berkeley.edu/deeprlcourse/)
 - [Deep Reinforcement Learning 2022](https://www.youtube.com/playlist?list=PLKvX2d3IUq59tjbXWWZBzRNqnFtsnv-JE)
 - [Dimitri Bertsekas](https://www.youtube.com/@dimitribert/playlists)
 - [CS 4789/5789: Introduction to Reinforcement Learning](https://wensun.github.io/CS4789.html) | [Youtube](https://www.youtube.com/playlist?list=PLQVNhPb8ajtCjWSKUvKU8cX5lueYP9s3X)
